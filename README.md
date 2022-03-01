@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @haroldandrew
+- 👋 Hi, I’m Harold!
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning programming with Java
 
 <!---
-haroldandrew/haroldandrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+imharoldjc/imharoldjc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
